@@ -3,10 +3,10 @@
   <channel>
     <title>Portfolio &amp; Blog of Gerard Cruz</title>
     <description>Hello, I'm Gerard Cruz. I'm a web developer, designer, and musician. This is my portfolio &amp; blog.</description>
-    <link>http://gerardvcruz.github.io/portfolio//portfolio/</link>
-    <atom:link href="http://gerardvcruz.github.io/portfolio//portfolio/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 05 Aug 2014 14:38:48 +0800</pubDate>
-    <lastBuildDate>Tue, 05 Aug 2014 14:38:48 +0800</lastBuildDate>
+    <link>http://gerardvcruz.github.io/</link>
+    <atom:link href="http://gerardvcruz.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 05 Aug 2014 15:07:54 +0800</pubDate>
+    <lastBuildDate>Tue, 05 Aug 2014 15:07:54 +0800</lastBuildDate>
     <generator>Jekyll v2.2.0</generator>
     
       <item>
@@ -17,8 +17,8 @@ Huh, I hope this works.&lt;/p&gt;
 &lt;p&gt;I’m starting to like vim. I should use it more often.&lt;/p&gt;
 </description>
         <pubDate>Tue, 05 Aug 2014 05:47:20 +0800</pubDate>
-        <link>http://gerardvcruz.github.io/portfolio//portfolio/blog/2014/08/05/testing-new-post/</link>
-        <guid isPermaLink="true">http://gerardvcruz.github.io/portfolio//portfolio/blog/2014/08/05/testing-new-post/</guid>
+        <link>http://gerardvcruz.github.io/blog/2014/08/05/testing-new-post/</link>
+        <guid isPermaLink="true">http://gerardvcruz.github.io/blog/2014/08/05/testing-new-post/</guid>
         
         
         <category>blog</category>
@@ -35,8 +35,8 @@ Huh, I hope this works.&lt;/p&gt;
 
 </description>
         <pubDate>Tue, 05 Aug 2014 04:46:03 +0800</pubDate>
-        <link>http://gerardvcruz.github.io/portfolio//portfolio/blog/2014/08/05/finally-finished-my-blog/</link>
-        <guid isPermaLink="true">http://gerardvcruz.github.io/portfolio//portfolio/blog/2014/08/05/finally-finished-my-blog/</guid>
+        <link>http://gerardvcruz.github.io/blog/2014/08/05/finally-finished-my-blog/</link>
+        <guid isPermaLink="true">http://gerardvcruz.github.io/blog/2014/08/05/finally-finished-my-blog/</guid>
         
         
         <category>blog</category>
@@ -49,8 +49,8 @@ Huh, I hope this works.&lt;/p&gt;
 
 </description>
         <pubDate>Tue, 05 Aug 2014 00:00:00 +0800</pubDate>
-        <link>http://gerardvcruz.github.io/portfolio//portfolio/projects/2014/08/05/new-project/</link>
-        <guid isPermaLink="true">http://gerardvcruz.github.io/portfolio//portfolio/projects/2014/08/05/new-project/</guid>
+        <link>http://gerardvcruz.github.io/projects/2014/08/05/new-project/</link>
+        <guid isPermaLink="true">http://gerardvcruz.github.io/projects/2014/08/05/new-project/</guid>
         
         
         <category>projects</category>
