@@ -1,0 +1,15 @@
+# Site settings
+name: "Gerard Cruz"
+title: "Portfolio & Blog of Gerard Cruz"
+email: gerardcruz@live.com
+description: "Hello, I'm Gerard Cruz. I'm a web developer, designer, and musician. This is my portfolio & blog."
+baseurl: "/portfolio"
+url: "http://gerardvcruz.github.io/portfolio/"
+twitter_username: n00gerard
+github_username:  gerardvcruz
+
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+highlighter: false
