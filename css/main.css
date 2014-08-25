@@ -113,11 +113,6 @@ a:visited {
   padding: 0;
 }
 
-article .post-content {
-  line-height:200%;
-  font-size: 120%;
-}
-
 .github-icon-svg,
 .twitter-icon-svg {
   display: inline-block;
@@ -199,7 +194,11 @@ article .post-content {
     margin-top: 5px;
   }
 
-  .post-content { margin: 0 0 30px; }
+  .post-content {
+    margin: 0 0 30px;
+    line-height:200%;
+    font-size: 120%;
+  }
 
   .post-content > * { margin: 20px 0; }
 
