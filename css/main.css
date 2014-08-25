@@ -92,6 +92,7 @@ body {
 #container {
   width:100%;
   background:#ffffff;
+  float:left;
 }
 
 a {
