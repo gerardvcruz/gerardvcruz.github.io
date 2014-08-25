@@ -92,8 +92,8 @@ body {
 #container {
   width:100%;
   background:#ffffff;
-  margin:auto;
-  /* add box shadows ok */
+  margin:20px auto;
+  float:left;
 }
 
 a {
@@ -112,6 +112,11 @@ a:visited {
   margin: 0;
   float: left;
   padding: 0;
+}
+
+article .post-content {
+  line-height:200%;
+  font-size: 120%;
 }
 
 .github-icon-svg,
